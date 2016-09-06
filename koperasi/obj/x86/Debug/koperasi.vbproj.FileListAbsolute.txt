@@ -1,0 +1,39 @@
+C:\Users\Faizal Ruzky\AppData\Local\Temporary Projects\koperasi\bin\Debug\koperasi.exe
+C:\Users\Faizal Ruzky\AppData\Local\Temporary Projects\koperasi\bin\Debug\koperasi.pdb
+C:\Users\Faizal Ruzky\AppData\Local\Temporary Projects\koperasi\bin\Debug\koperasi.xml
+C:\Users\Faizal Ruzky\AppData\Local\Temporary Projects\koperasi\obj\x86\Debug\koperasi.Form1.resources
+C:\Users\Faizal Ruzky\AppData\Local\Temporary Projects\koperasi\obj\x86\Debug\koperasi.Resources.resources
+C:\Users\Faizal Ruzky\AppData\Local\Temporary Projects\koperasi\obj\x86\Debug\koperasi.vbproj.GenerateResource.Cache
+C:\Users\Faizal Ruzky\AppData\Local\Temporary Projects\koperasi\obj\x86\Debug\koperasi.exe
+C:\Users\Faizal Ruzky\AppData\Local\Temporary Projects\koperasi\obj\x86\Debug\koperasi.xml
+C:\Users\Faizal Ruzky\AppData\Local\Temporary Projects\koperasi\obj\x86\Debug\koperasi.pdb
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.exe
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.xml
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.pdb
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\bin\Debug\koperasi.exe
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\bin\Debug\koperasi.pdb
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\bin\Debug\koperasi.xml
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.Resources.resources
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.Tes_Koneksi.resources
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.vbproj.GenerateResource.Cache
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.Data_Anggota.resources
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.Petugas.resources
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.Setoran.resources
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.Menu_Utama.resources
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.Login.resources
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.Pengambilan.resources
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.Pinjaman.resources
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.Bayar_Cicilan.resources
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.GantiPassword.resources
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.vbprojResolveAssemblyReference.cache
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.Laporan.resources
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\bin\Debug\koperasi.exe.config
+C:\Users\Faizal Ruzky\Documents\Visual Studio 2010\Projects\koperasi\koperasi\obj\x86\Debug\koperasi.SplashScreen.resources
+E:\Kuliah\SEMESTER IV\RPL\Tugas\Tugas Besar\SISTEM INFORMASI KOPERASI SIMPAN PINJAM\Program\koperasi\koperasi\bin\Debug\koperasi.exe.config
+E:\Kuliah\SEMESTER IV\RPL\Tugas\Tugas Besar\SISTEM INFORMASI KOPERASI SIMPAN PINJAM\Program\koperasi\koperasi\obj\x86\Debug\koperasi.exe
+E:\Kuliah\SEMESTER IV\RPL\Tugas\Tugas Besar\SISTEM INFORMASI KOPERASI SIMPAN PINJAM\Program\koperasi\koperasi\obj\x86\Debug\koperasi.xml
+E:\Kuliah\SEMESTER IV\RPL\Tugas\Tugas Besar\SISTEM INFORMASI KOPERASI SIMPAN PINJAM\Program\koperasi\koperasi\obj\x86\Debug\koperasi.pdb
+D:\Kuliah\SEMESTER IV\RPL\Tugas\Tugas Besar\SISTEM INFORMASI KOPERASI SIMPAN PINJAM\Program\koperasi\koperasi\bin\Debug\koperasi.exe.config
+D:\Kuliah\SEMESTER IV\RPL\Tugas\Tugas Besar\SISTEM INFORMASI KOPERASI SIMPAN PINJAM\Program\koperasi\koperasi\obj\x86\Debug\koperasi.exe
+D:\Kuliah\SEMESTER IV\RPL\Tugas\Tugas Besar\SISTEM INFORMASI KOPERASI SIMPAN PINJAM\Program\koperasi\koperasi\obj\x86\Debug\koperasi.xml
+D:\Kuliah\SEMESTER IV\RPL\Tugas\Tugas Besar\SISTEM INFORMASI KOPERASI SIMPAN PINJAM\Program\koperasi\koperasi\obj\x86\Debug\koperasi.pdb
